@@ -1,0 +1,37 @@
+.item {
+    color: black;
+}
+.header{
+    width: 100%;
+    height: auto;
+    background-color:powderblue;
+    padding-top; 24px;
+}
+.headerContent a img{
+    width:659;
+    height:150px;
+    margin:6px auto;
+    display:black;
+    margin-left: 400px;
+    margin-right: 500px;
+    width: 25em;
+}
+.nav ul lia:hover {
+    color:white;
+
+}
+.headerBreak {
+    height:0;
+    border-bottom: 5px solid white
+}
+p{
+    font-family: "Times New Roman";
+    color: blue;
+}
+body {
+    background-color: lightblue;
+}
+h2{
+    color: maroon;
+    margin-left: 40px;
+}
